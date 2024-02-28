@@ -1,0 +1,48 @@
+<svg id="Logo_Rose" data-name="Logo Rose" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="639.313" height="148.031" viewBox="0 0 639.313 148.031">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #ffbbd5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        fill: #2c2c2c;
+      }
+    </style>
+    <filter id="filter" x="118" y="58" width="103.031" height="102.906" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ffbcc5"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="156.563" y="81.344" width="102.656" height="102.531" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ff919f"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="208" y="95.125" width="111.031" height="110.906" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ff7688"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Rectángulo_2" data-name="Rectángulo 2" class="cls-1" d="M146.764,58.218L207.8,68.465a15.852,15.852,0,0,1,13.02,18.258l-10.259,60.961a15.868,15.868,0,0,1-18.281,13l-61.038-10.246a15.852,15.852,0,0,1-13.02-18.259l10.259-60.961A15.868,15.868,0,0,1,146.764,58.218Z" transform="translate(-118 -58)"/>
+  <path id="Rectángulo_2-2" data-name="Rectángulo 2" class="cls-2" d="M173.71,81.919l67.479-.578A17.293,17.293,0,0,1,258.64,98.473l0.579,67.4A17.292,17.292,0,0,1,242.065,183.3l-67.479.578a17.293,17.293,0,0,1-17.451-17.133l-0.579-67.394A17.292,17.292,0,0,1,173.71,81.919Z" transform="translate(-118 -58)"/>
+  <path id="Rectángulo_2-3" data-name="Rectángulo 2" class="cls-3" d="M222.85,104.916l66.795-9.592a17.3,17.3,0,0,1,19.589,14.646l9.605,66.711a17.285,17.285,0,0,1-14.665,19.565l-66.794,9.592a17.3,17.3,0,0,1-19.59-14.646l-9.6-66.711A17.285,17.285,0,0,1,222.85,104.916Z" transform="translate(-118 -58)"/>
+  <path id="Mi_Sitio" data-name="Mi Sitio" class="cls-4" d="M384.339,172h12.769V121.347L420.967,172h8.85l23.747-50.653V172h12.769V98.042H452.668l-27.22,58-27.332-58H384.339V172Zm97.111,0h12.77V113.365H481.45V172Zm6.5-66.4a7.778,7.778,0,1,0-8.177-7.768A7.858,7.858,0,0,0,487.947,105.6Zm101.369,45.439c0-27.029-41.221-16.6-41.221-33.308,0-7.129,5.713-10.535,13.106-10.322,8.065,0.213,12.657,4.789,13.105,9.79H588.42c-1.12-12.663-11.649-20.112-26.547-20.112-15.906,0-26.772,8.088-26.772,21.07,0,27.242,41.334,15.643,41.334,33.521,0,6.278-5.041,10.854-14,10.854-8.849,0-13.33-4.9-13.89-10.961H534.877c0,13.089,11.986,21.177,27.556,21.177C579.795,172.745,589.316,162.1,589.316,151.036ZM602.754,172h12.77V113.365h-12.77V172Zm6.5-66.4a7.778,7.778,0,1,0-8.177-7.768A7.857,7.857,0,0,0,609.251,105.6Zm23.409,50.122c0,11.918,6.833,16.281,17.81,16.281h10.082V161.891h-7.841c-5.377,0-7.169-1.809-7.169-6.172V123.262h15.01v-9.9h-15.01V98.787H632.66v14.578h-7.281v9.9h7.281v32.457ZM670.631,172H683.4V113.365H670.631V172Zm6.5-66.4a7.778,7.778,0,1,0-8.177-7.768A7.858,7.858,0,0,0,677.127,105.6Zm80.2,37.033c0-18.41-13.89-30.222-31.476-30.222s-31.476,11.812-31.476,30.222,13.329,30.328,30.916,30.328C742.99,172.958,757.328,161.039,757.328,142.63Zm-49.959,0c0-13.3,8.626-19.687,18.259-19.687,9.521,0,18.594,6.385,18.594,19.687s-9.409,19.793-18.93,19.793C715.659,162.423,707.369,155.931,707.369,142.63Z" transform="translate(-118 -58)"/>
+</svg>
